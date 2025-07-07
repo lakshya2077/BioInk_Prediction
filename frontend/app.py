@@ -92,7 +92,7 @@ st.sidebar.markdown("---")
 # --- Title with GIF ---
 # Choose title gif based on section
 if section == "Printability Prediction":
-    title_gif_path = os.path.join(os.path.dirname(__file__), "assets", "Title.gif")
+    title_gif_path = os.path.join(os.path.dirname(__file__), "assets", "title.gif")
 else:
     title_gif_path = os.path.join(os.path.dirname(__file__), "assets", "Title_degradation.gif")  # You can rename it as needed
 
