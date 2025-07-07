@@ -1,0 +1,38 @@
+Gelatin_pct,Silk_pct,LH,PP,PS,T,TG_min,Used_crosslinker,Needle,Remarks,Printable
+15,4,0.7,60,10,24,6,1,22G,Good print,1
+16,4,0.8,60,10,24.1,6,1,22G,Over extrusion,0
+15,4,0.8,50,10,24.2,5,1,22G,Comparatively good,1
+15,4,0.7,40,10,23.5,6,1,22G,Over extrusion,0
+15,4,0.7,40,10,23.6,6,1,22G,Needs smoothness,0
+16,5,0.7,45,10,23.6,5,1,22G,Good comparatively,1
+15,5,0.6,20,11,23.1,6,1,22G,Overgelation,0
+15,5,0.7,28,10,23.2,6,1,25G,Choked after 2 layers,0
+15,5,0.7,32,10,23.3,6,1,22G,Not accurate,0
+16,5,0.8,70,12,23.2,6,1,22G,Overgelation,0
+15,4,0.8,70,13,22.9,2,1,22G,Overgelation,0
+15,5,0.8,70,13,23.4,5,1,22G,Overgelation,0
+15,5,0.7,50,10,22.5,5,1,22G,Overgelation,0
+15,4,0.7,70,10,22.9,10,1,22G,Overgelation,0
+16,5,0.8,70,11,23,5,1,22G,Overgelation,0
+15,4,0.7,60,10,22,0,0,22G,Overgelation,0
+16,5,0.7,70,10,22.3,12,1,22G,Overgelation,0
+16,4,0.7,32,10,22,5,1,22G,"Accumulation, needs speed",0
+16,5,0.7,50,11,22,12,1,22G,Very fast extrusion,0
+15,5,0.7,50,11,23,20,1,22G,Crosslinked over time,0
+16,4,0.7,35,11,23,27,1,22G,Not smooth/clear,0
+15,4,0.7,55,10,23.8,6,1,22G,Nice extrusion,1
+16,4,0.8,58,11,23.7,5,1,22G,Smooth lines,1
+16,4,0.6,50,9,23.9,4,1,22G,Fine quality,1
+16,4,0.75,60,10,23.6,7,1,22G,Good structure,1
+16,4,0.72,62,12,23.5,6,1,22G,Stable output,1
+16,4,0.73,57,11,23.4,5,1,25G,No interruption,1
+16,4,0.65,52,10,23.3,4,1,25G,Even layers,1
+16,5,0.77,61,12,23.7,6,1,22G,Smooth and consistent,1
+16,5,0.68,53,10,23.6,5,1,22G,Printed well with sharp lines,1
+15,4,0.74,59,11,23.8,6,1,22G,Stable for 3+ layers,1
+15,5,0.71,54,10,23.7,5,1,25G,Good print resolution,1
+16,5,0.76,60,12,23.5,6,1,25G,Minimal vibration,1
+16,5,0.69,56,11,23.6,5,1,22G,Clean extrusion lines,1
+16,5,0.7,52,9,23.4,4,1,25G,Smooth strands and firm base,1
+15,4,0.78,63,12,23.9,7,1,22G,Excellent grip and structure,1
+16,5,0.66,51,10,23.3,4,1,22G,Better than baseline run,1

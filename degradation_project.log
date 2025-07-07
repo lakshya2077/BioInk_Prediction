@@ -1,0 +1,28 @@
+2025-07-07 03:05:31,392 - INFO - \U0001f6e0\ufe0f Starting training pipeline...
+2025-07-07 03:05:31,651 - INFO - \u2705 Model training complete.
+2025-07-07 03:05:31,665 - INFO - Compressive_Stiffness_MPa \u2192 MSE: 21.558 | R²: 0.968
+2025-07-07 03:05:31,665 - INFO - Weight_Loss_Percentage \u2192 MSE: 4.161 | R²: 0.973
+2025-07-07 03:05:31,666 - INFO - Water_Absorption_Percentage \u2192 MSE: 1.702 | R²: 0.971
+2025-07-07 03:05:31,721 - INFO - \u2705 Model saved to: degradation_project\models\degradation_model.pkl
+2025-07-07 03:05:31,721 - INFO - \u2705 Preprocessor saved to: degradation_project\models\preprocessor.pkl
+2025-07-07 03:06:57,990 - INFO - \U0001f6e0\ufe0f Starting training pipeline...
+2025-07-07 03:06:58,322 - INFO - \u2705 Model training complete.
+2025-07-07 03:06:58,340 - INFO - Compressive_Stiffness_MPa \u2192 MSE: 21.558 | R²: 0.968
+2025-07-07 03:06:58,341 - INFO - Weight_Loss_Percentage \u2192 MSE: 4.161 | R²: 0.973
+2025-07-07 03:06:58,343 - INFO - Water_Absorption_Percentage \u2192 MSE: 1.702 | R²: 0.971
+2025-07-07 03:06:58,403 - INFO - \u2705 Model saved to: degradation_project\models\degradation_model.pkl
+2025-07-07 03:06:58,404 - INFO - \u2705 Preprocessor saved to: degradation_project\models\preprocessor.pkl
+2025-07-07 04:32:04,379 - INFO - \U0001f6e0\ufe0f Starting training pipeline...
+2025-07-07 04:32:04,665 - INFO - \u2705 Model training complete.
+2025-07-07 04:32:04,681 - INFO - Compressive_Stiffness_MPa \u2192 MSE: 537.957 | R²: 0.057
+2025-07-07 04:32:04,683 - INFO - Weight_Loss_Percentage \u2192 MSE: 24.961 | R²: 0.896
+2025-07-07 04:32:04,684 - INFO - Water_Absorption_Percentage \u2192 MSE: 23.749 | R²: 0.820
+2025-07-07 04:32:04,759 - INFO - \u2705 Model saved to: degradation_project\models\degradation_model.pkl
+2025-07-07 04:32:04,759 - INFO - \u2705 Preprocessor saved to: degradation_project\models\preprocessor.pkl
+2025-07-07 13:13:25,372 - INFO - \U0001f6e0\ufe0f Starting training pipeline...
+2025-07-07 13:13:25,668 - INFO - \u2705 Model training complete.
+2025-07-07 13:13:25,684 - INFO - Compressive_Stiffness_MPa \u2192 MSE: 537.957 | R²: 0.057
+2025-07-07 13:13:25,686 - INFO - Weight_Loss_Percentage \u2192 MSE: 24.961 | R²: 0.896
+2025-07-07 13:13:25,688 - INFO - Water_Absorption_Percentage \u2192 MSE: 23.749 | R²: 0.820
+2025-07-07 13:13:25,760 - INFO - \u2705 Model saved to: degradation_project\models\degradation_model.pkl
+2025-07-07 13:13:25,760 - INFO - \u2705 Preprocessor saved to: degradation_project\models\preprocessor.pkl

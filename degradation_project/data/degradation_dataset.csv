@@ -1,0 +1,131 @@
+Scaffold_Geometry,Porosity_Percentage,Immersion_Time_Days,Mechanical_Loading,Compressive_Stiffness_MPa,Weight_Loss_Percentage,Water_Absorption_Percentage
+Body Centered Shifted,62.5,15,0,114.16,17.96,14.34
+Body Centered,75,90,0,55.13,41.79,27.31
+Body Centered Shifted,62.5,30,0,103.6,20.73,14.61
+Body Centered Shifted,62.5,90,1,59.93,44.14,27.54
+Body Centered,75,30,0,95.87,24.72,15.93
+Body Centered,62.5,30,1,85.7,26.24,14.71
+Body Centered Shifted,75,90,1,49.48,47.85,29.11
+Body Centered Cubic,75,120,1,30.26,54.69,36.65
+Body Centered Shifted,50,30,0,108.4,18.13,13.45
+Body Centered Shifted,75,30,0,96.71,23.49,17.47
+Body Centered Shifted,50,90,0,68.66,35.69,26.01
+Body Centered Shifted,75,30,0,91.97,26.94,17.79
+Body Centered,75,30,1,84.05,27.9,17.28
+Body Centered Shifted,50,90,0,68.1,37.91,24.3
+Body Centered Cubic,50,90,0,71.45,36.33,26.29
+Body Centered,75,15,0,103.16,18.99,14.68
+Body Centered Cubic,62.5,120,0,54.65,48.8,32.28
+Body Centered Cubic,50,120,0,49.92,44.54,30.82
+Body Centered Cubic,62.5,30,1,88.4,25.84,16.26
+Body Centered Cubic,62.5,120,0,48.02,48.35,33.98
+Body Centered,62.5,30,1,93.37,25.65,14.65
+Body Centered,50,15,0,122.86,13.68,10.23
+Body Centered Cubic,62.5,90,1,59.62,45.59,27.23
+Body Centered Cubic,50,90,0,73.47,38,26.12
+Body Centered,62.5,90,0,65.63,39.06,28.62
+Body Centered,75,120,1,33.19,55.92,35.32
+Body Centered,75,15,1,91.67,25.74,15.42
+Body Centered Shifted,50,120,1,42.05,49.57,32.37
+Body Centered Shifted,75,120,0,36.05,51.34,35.46
+Body Centered Shifted,75,15,1,92.81,26.47,12.81
+Body Centered,62.5,90,0,25,52.03,35.15
+Body Centered Shifted,50,15,1,48.51,21.64,16.13
+Body Centered,75,120,1,25,60,44.97
+Body Centered Cubic,62.5,60,1,25,44.33,29.61
+Body Centered,62.5,60,1,25,44.17,28.52
+Body Centered,62.5,120,1,25,60,43.91
+Body Centered Shifted,50,90,1,25,56.22,41.54
+Body Centered Cubic,50,120,1,25,60,40.23
+Body Centered Shifted,50,30,1,45.03,30.59,19.49
+Body Centered Shifted,50,15,1,53.73,19.76,15.11
+Body Centered Cubic,50,15,1,51.49,20.31,14.5
+Body Centered,50,60,0,35.13,38.64,28.37
+Body Centered,50,120,1,25,60,41.15
+Body Centered Cubic,75,120,0,25,60,44.85
+Body Centered Shifted,62.5,60,1,25,47.3,31.44
+Body Centered,75,90,0,25,54.45,36.4
+Body Centered Shifted,62.5,120,0,25,60,37.69
+Body Centered Shifted,50,15,1,52.01,22.82,17.52
+Body Centered Shifted,62.5,90,1,25,58.12,46.2
+Body Centered Shifted,75,60,1,25,49.07,31.1
+Body Centered,62.5,90,1,25,57.06,41.58
+Body Centered Cubic,62.5,30,1,33.96,33.43,23.51
+Body Centered Shifted,75,120,0,25,60,46.48
+Body Centered,75,60,1,25,47.33,34.65
+Body Centered Cubic,62.5,15,0,53.7,21.5,15.19
+Body Centered Cubic,75,30,0,34.73,31.26,21.95
+Body Centered Cubic,62.5,120,0,25,60,47.12
+Body Centered Cubic,62.5,60,1,25,45.13,35.96
+Body Centered Cubic,75,60,1,25,48.27,30.84
+Body Centered Shifted,50,60,0,43.74,34.37,27.15
+Body Centered Shifted,50,120,0,25,60,37.39
+Body Centered Shifted,75,120,1,25,60,39.15
+Body Centered Shifted,75,120,0,25,60,45.15
+Body Centered Shifted,62.5,30,0,38.74,25.89,19.3
+Body Centered Cubic,62.5,120,0,25,60,40.31
+Body Centered,75,90,0,25,56.39,44.57
+Body Centered Shifted,62.5,15,1,36.12,21.94,16.49
+Body Centered Shifted,75,90,0,25,55.23,37.34
+Body Centered Shifted,50,15,0,57.55,13.95,8.88
+Body Centered,75,15,0,39.63,24.11,14.67
+Body Centered Shifted,75,30,1,25,35.06,26.19
+Body Centered,75,15,1,26.98,28.21,22.29
+Body Centered,62.5,30,1,37.32,30.99,20.46
+Body Centered Shifted,75,60,0,25,40.4,26.77
+Body Centered Shifted,62.5,30,0,45.49,25.89,17.64
+Body Centered Cubic,50,60,0,39.43,36.74,28.07
+Body Centered,75,120,1,25,60,47.65
+Body Centered Shifted,50,90,1,25,57.99,41.25
+Body Centered Shifted,50,120,1,25,60,41.84
+Body Centered Cubic,75,30,1,25,34.92,23.57
+Body Centered Cubic,75,120,1,25,60,43.24
+Body Centered,62.5,120,1,25,60,38.36
+Body Centered Shifted,62.5,90,0,25,53.87,38.75
+Body Centered Cubic,75,90,0,25,52.65,34.37
+Body Centered,50,15,0,66.65,16.51,12.64
+Body Centered,75,60,1,25,45.01,35.92
+Body Centered,62.5,15,1,41.42,26.14,17.7
+Body Centered Cubic,50,30,1,43.28,26.28,19.47
+Body Centered,62.5,30,0,38.8,23.63,14.48
+Body Centered Shifted,50,120,1,25,60,36.17
+Body Centered Shifted,75,15,1,25.5,28.08,21.36
+Body Centered,50,120,1,25,60,37.65
+Body Centered Shifted,75,90,1,25,58.05,45.7
+Body Centered,50,60,1,25.17,42.89,28.96
+Body Centered,75,15,1,30.63,26.72,19.94
+Body Centered Cubic,62.5,30,0,37.79,26.58,20.28
+Body Centered Cubic,50,30,1,49.77,28.92,21.41
+Body Centered Shifted,62.5,60,1,25,47.46,29.89
+Body Centered Shifted,75,15,1,25,26.92,19.25
+Body Centered Cubic,75,90,1,25,60,47.46
+Body Centered Shifted,50,120,1,25,60,47.79
+Body Centered Cubic,75,30,1,25,31.41,24.29
+Body Centered,50,30,0,54.24,20.59,13.54
+Body Centered Shifted,75,120,0,25,60,41.78
+Body Centered,75,30,0,25.4,27.08,20.35
+Body Centered,75,90,1,25,59.07,45.42
+Body Centered,62.5,90,1,25,59.88,42.39
+Body Centered Shifted,75,120,0,25,60,47.9
+Body Centered,62.5,90,0,25,55.49,38.63
+Body Centered Cubic,62.5,60,0,25.18,40.38,27.38
+Body Centered,50,30,0,52.18,23.72,16.31
+Body Centered,50,30,0,56.02,20.72,14.18
+Body Centered Cubic,75,120,0,25,60,47.98
+Body Centered Cubic,50,15,1,52.55,23.47,17.88
+Body Centered Shifted,62.5,30,0,38.24,23.82,17.25
+Body Centered Cubic,50,120,0,25,60,40.56
+Body Centered Cubic,50,90,0,27.16,52.16,35.65
+Body Centered Shifted,50,30,1,47.8,30.28,19.43
+Body Centered Shifted,62.5,90,1,25,55.14,35.56
+Body Centered Shifted,62.5,15,1,35.71,26.29,18.76
+Body Centered Shifted,50,30,1,41.41,26.96,21.18
+Body Centered Shifted,75,30,1,25,33.74,21.29
+Body Centered Shifted,50,120,1,25,60,40.05
+Body Centered Shifted,62.5,120,1,25,60,39.49
+Body Centered,75,15,0,35.85,24.64,17.62
+Body Centered,62.5,120,0,25,60,37.14
+Body Centered Cubic,50,60,1,27.55,40.67,29.38
+Body Centered Shifted,75,120,1,25,60,42.54
+Body Centered Cubic,75,60,1,25,47.98,29.81
+Body Centered Shifted,62.5,60,1,25,42.24,30.58
